@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/vercel/examples.git",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "@vercel/node": "^2.9.6",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/formidable": "^3.4.5",
+    "dotenv": "^16.4.5",
+    "formidable": "^3.5.1",
+    "openai": "^4.47.2"
+  }
+}
